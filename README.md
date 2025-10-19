@@ -1,4 +1,3 @@
-
 <p align="center">
   <img align="center" height="100" src="https://f3verdream.carrd.co/assets/images/gallery01/4d39c7bc.png?v=83d5ae7c">
   <img align="center" hspace="10" src="https://pix.crd.co/assets/images/gallery05/dfc40bfc_original.png?v=c10c78ee">
@@ -27,6 +26,6 @@
   <img align="center" src="https://f3verdream.carrd.co/assets/images/gallery01/7940d541.gif?v=c745b48c">
     <br/>
   <img align="center" src="https://pix.crd.co/assets/images/gallery15/28012ff3.png?v=c10c78ee">
-  <img align="center" src="https://i.postimg.cc/GhCr9YPy/rawr.gif">
+  <img align="center" src="https://komarev.com/ghpvc/?username=gr333nz1llaaq&color=75db2e&style=plastic&label=hi+ꐕ+&abbreviated=true">
   <img align="center" src="https://f3verdream.carrd.co/assets/images/gallery01/16773754.png?v=f2617892">
 </p>
